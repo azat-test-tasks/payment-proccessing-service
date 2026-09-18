@@ -6,7 +6,7 @@
 Склонируйте репозиторий и перейдите в него:
 
 ```bash
-git clone https://github.com/azat-test-tasks/payment-processing-service.git
+git clone https://github.com/azat-test-tasks/payment-proccessing-service.git
 ```
 
 Создайте `.env` на основе `.env.example` и задайте свой `API_KEY`:
